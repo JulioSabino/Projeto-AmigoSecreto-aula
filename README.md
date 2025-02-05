@@ -28,5 +28,9 @@
 
 <p align="justify"> Agora é só clicar novamente no botão "Sortear amigo" que aparecerá um novo nome sorteado. Repita esse passo até que todos os nomes tenham sido sorteados e os pares formados. </p>
 
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/jogoAmigoSecreto.png" />
+</h1>
+
 <h2 align="center"> Projeto de Estudo no aprendizado de Lógica de programação. </h2>
 <p align="justify"> Este é um trabalho educaconal no aprendizado da linguagem JavaScript de aluno iniciante na área de T.I. (programação). Eu. Oferecido pela Alura + ONE </p>
