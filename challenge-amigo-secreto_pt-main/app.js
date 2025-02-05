@@ -6,7 +6,7 @@ let amigos = [];  // Criado um array vazio para armazenar os nomes dos Amigos
 
 // Funcao para adicionar amigo  
 function adicionarAmigo() {  
-    let campo = document.getElementById("amigoSecreto");  
+    let campo = document.getElementById("amigo");  
     let nomeAmigo = campo.value.trim(); // Remove espaços em branco  
 
     if (nomeAmigo) {  
